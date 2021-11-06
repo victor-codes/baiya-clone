@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
-import Sal from "../../images/Saly-12-min.png";
-import { ReactComponent as Arrow } from "../../images/arrow-button.svg";
+import Sal from "../../Images/Saly-12-min.png";
+import { ReactComponent as Arrow } from "../../Images/arrow-button.svg";
 import {
   imageVariant,
   sectionVariant,

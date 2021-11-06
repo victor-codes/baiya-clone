@@ -24,7 +24,7 @@ body {
   left: 0;
   width: 170vw;
   height: 100vh;
-  background: repeat url(./images/background.svg) 50%;
+  background: repeat url("./Images/background.svg") 50%;
   z-index: -1;
 }
 

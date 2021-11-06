@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { useState } from "react";
-import { ReactComponent as Arrow } from "../../images/arrow-button.svg";
+import { ReactComponent as Arrow } from "../../Images/arrow-button.svg";
 import { sectionVariant, titleVariant, transition } from "../../utils";
 
 const FAOs = () => {

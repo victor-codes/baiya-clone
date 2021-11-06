@@ -1,8 +1,8 @@
-import BANC from "../../images/banc.png";
-import NDIC from "../../images/ndic.png";
-import PCI from "../../images/pci-dss.png";
-import ISO from "../../images/iso.png";
-import TA from "../../images/ta.png";
+import BANC from "../../Images/banc.png";
+import NDIC from "../../Images/ndic.png";
+import PCI from "../../Images/pci-dss.png";
+import ISO from "../../Images/iso.png";
+import TA from "../../Images/ta.png";
 
 const Footer = () => {
   return (

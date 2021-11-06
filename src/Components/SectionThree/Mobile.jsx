@@ -1,5 +1,5 @@
-import Sal from "../../images/Saly-13-min.png";
-import { ReactComponent as Arrow } from "../../images/arrow-button.svg";
+import Sal from "../../Images/Saly-13-min.png";
+import { ReactComponent as Arrow } from "../../Images/arrow-button.svg";
 
 const SectionThreeMobile = () => {
   return (
